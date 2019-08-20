@@ -1,5 +1,5 @@
 # Machstick_2018
-Créer un jeu dans le terminale inspirer du jeu matches puzzle
+Création d'un jeu dans le terminale inspirer du jeu matches puzzle
 
 Utiliser make pour compiler le projet.
 
