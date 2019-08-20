@@ -3,5 +3,5 @@ Création d'un jeu dans le terminale inspirer du jeu matches puzzle
 
 Utiliser make pour compiler le projet.
 
-Le binaire prend deux paramètre. 
-Le premier est le nombre de line et le second et le nombre de matches maximal qui peut être enlever dans un tour.
+L'exécutable prend deux paramètre. 
+Le premier paramètre est le nombre de line et le second paramètre est le nombre maximal d'objet qui peut être retiré dans un tour.
