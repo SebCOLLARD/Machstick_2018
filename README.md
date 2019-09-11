@@ -2,7 +2,7 @@
 
 The project is based on the famous game matchstick.
 
-1. Compilation : `make` in the repository.
+1. Compilation : Use `make` in the repository.
 
 2.Executing the program : `matchstick param1 param2`.
 
