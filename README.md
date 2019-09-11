@@ -1,7 +1,9 @@
 # Machstick_2018
-Création d'un jeu dans le terminale inspirer du jeu matches puzzle
 
-Utiliser make pour compiler le projet.
+The project is based on the famous game matchstick.
 
-L'exécutable prend deux paramètre. 
-Le premier paramètre est le nombre de line et le second paramètre est le nombre maximal d'objet qui peut être retiré dans un tour.
+1. Compilation : `make` in the repository.
+2.Executing the program : `matchstick param1 param2`
+
+`param1` is the number of line.
+`param2` is the number of stick you can remove in a round.
